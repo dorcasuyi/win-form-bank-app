@@ -1,0 +1,32 @@
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\DCity Bank UI.exe
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\DCity Bank UI.deps.json
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\DCity Bank UI.runtimeconfig.json
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\DCity Bank UI.runtimeconfig.dev.json
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\DCity Bank UI.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\DCity Bank UI.pdb
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\DCity Bank Core.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\Models.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\DCity Bank Core.pdb
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\bin\Debug\net5.0-windows\Models.pdb
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity Bank UI.csproj.AssemblyReference.cache
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity_Bank.CreateAccountPage.resources
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity_Bank.Dashboard.resources
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity_Bank.Deposit_form.resources
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity_Bank.Login.resources
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity_Bank.Properties.Resources.resources
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity_Bank.Register.resources
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity Bank UI.csproj.GenerateResource.cache
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity Bank UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity Bank UI.AssemblyInfoInputs.cache
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity Bank UI.AssemblyInfo.cs
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity Bank UI.csproj.CoreCompileInputs.cache
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity Bank UI.csproj.CopyComplete
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity Bank UI.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\refint\DCity Bank UI.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity Bank UI.pdb
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\DCity Bank UI.genruntimeconfig.cache
+C:\Users\Dorcas\Desktop\BankApp Winform\DCity Bank\obj\Debug\net5.0-windows\ref\DCity Bank UI.dll

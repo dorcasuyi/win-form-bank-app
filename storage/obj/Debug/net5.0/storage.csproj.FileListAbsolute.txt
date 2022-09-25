@@ -1,0 +1,12 @@
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\bin\Debug\net5.0\storage.deps.json
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\bin\Debug\net5.0\storage.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\bin\Debug\net5.0\storage.pdb
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\obj\Debug\net5.0\storage.csproj.AssemblyReference.cache
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\obj\Debug\net5.0\storage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\obj\Debug\net5.0\storage.AssemblyInfoInputs.cache
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\obj\Debug\net5.0\storage.AssemblyInfo.cs
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\obj\Debug\net5.0\storage.csproj.CoreCompileInputs.cache
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\obj\Debug\net5.0\storage.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\obj\Debug\net5.0\refint\storage.dll
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\obj\Debug\net5.0\storage.pdb
+C:\Users\Dorcas\Desktop\BankApp Winform\storage\obj\Debug\net5.0\ref\storage.dll
